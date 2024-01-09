@@ -16,7 +16,7 @@
         <!-- org/apache/maven/plugins/maven-source-plugin -->
         <maven-source-plugin.version>3.3.0</maven-source-plugin.version>
         <!-- io/netty/netty-all -->
-        <netty.version>4.1.101.Final</netty.version>
+        <netty.version>4.1.104.Final</netty.version>
         <revision>1.0-SNAPSHOT</revision>
     </properties>
 
